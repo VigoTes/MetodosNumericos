@@ -157,6 +157,7 @@ void raizPorSecante(float xactual, float xanterior, float tol , int maximoIterac
 	}
 
 }
+ 
 
 
 
